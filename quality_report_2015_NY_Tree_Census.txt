@@ -1,0 +1,210 @@
+Quality Report:
+
+Number of columns: 45
+Number of rows: 683788
+
+Duplicate rows: 0
+
+Number of rows with missing values: 662049
+Number of columns with missing values: 11
+
+Names of each column & relevant info:
+tree_id
+   Data type: int64
+   Number of missing values: 0
+   Max value: 722694
+   Min value: 3
+block_id
+   Data type: int64
+   Number of missing values: 0
+   Max value: 999999
+   Min value: 100002
+created_at
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 483
+tree_dbh
+   Data type: int64
+   Number of missing values: 0
+   Max value: 450
+   Min value: 0
+stump_diam
+   Data type: int64
+   Number of missing values: 0
+   Max value: 140
+   Min value: 0
+curb_loc
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+status
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 3
+health
+   Data type: object
+   Number of missing values: 31616
+   Number of unique values: 3
+spc_latin
+   Data type: object
+   Number of missing values: 31619
+   Number of unique values: 132
+spc_common
+   Data type: object
+   Number of missing values: 31619
+   Number of unique values: 132
+steward
+   Data type: object
+   Number of missing values: 519438
+   Number of unique values: 3
+guards
+   Data type: object
+   Number of missing values: 603922
+   Number of unique values: 3
+sidewalk
+   Data type: object
+   Number of missing values: 31616
+   Number of unique values: 2
+user_type
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 3
+problems
+   Data type: object
+   Number of missing values: 457944
+   Number of unique values: 231
+root_stone
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+root_grate
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+root_other
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+trunk_wire
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+trnk_light
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+trnk_other
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+brch_light
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+brch_shoe
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+brch_other
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 2
+address
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 408701
+zipcode
+   Data type: int64
+   Number of missing values: 0
+   Max value: 11697
+   Min value: 83
+zip_city
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 48
+cb_num
+   Data type: int64
+   Number of missing values: 0
+   Max value: 503
+   Min value: 101
+borocode
+   Data type: int64
+   Number of missing values: 0
+   Max value: 5
+   Min value: 1
+boroname
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 5
+cncldist
+   Data type: int64
+   Number of missing values: 0
+   Max value: 51
+   Min value: 1
+st_assem
+   Data type: int64
+   Number of missing values: 0
+   Max value: 87
+   Min value: 23
+st_senate
+   Data type: int64
+   Number of missing values: 0
+   Max value: 36
+   Min value: 10
+nta
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 188
+nta_name
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 188
+boro_ct
+   Data type: int64
+   Number of missing values: 0
+   Max value: 5032300
+   Min value: 1000201
+state
+   Data type: object
+   Number of missing values: 0
+   Number of unique values: 1
+latitude
+   Data type: float64
+   Number of missing values: 0
+   Max value: 40.91291831
+   Min value: 40.49846614
+longitude
+   Data type: float64
+   Number of missing values: 0
+   Max value: -73.70048817
+   Min value: -74.2549647
+x_sp
+   Data type: float64
+   Number of missing values: 0
+   Max value: 1067247.624
+   Min value: 913349.2661
+y_sp
+   Data type: float64
+   Number of missing values: 0
+   Max value: 271894.0921
+   Min value: 120973.7922
+council_district
+   Data type: float64
+   Number of missing values: 6519
+   Max value: 51.0
+   Min value: 1.0
+census_tract
+   Data type: float64
+   Number of missing values: 6519
+   Max value: 157903.0
+   Min value: 1.0
+bin
+   Data type: float64
+   Number of missing values: 9559
+   Max value: 5515124.0
+   Min value: 1000000.0
+bbl
+   Data type: float64
+   Number of missing values: 9559
+   Max value: 5080500094.0
+   Min value: 0.0
